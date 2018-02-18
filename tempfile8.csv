@@ -1,0 +1,1001 @@
+,Age,Gender,heart rate,Symptoms,Disease
+0,17,1,93,heartbeat is normal,heartbeat is normal
+1,81,2,110,rapid pulse rate,Tachycardia
+2,46,1,136,fainting,Tachycardia
+3,41,1,38,shortness of breadth,Bradycardia
+4,88,2,81,heartbeat is normal,heartbeat is normal
+5,1,1,91,heartbeat is normal,heartbeat is normal
+6,46,2,107,rapid pulse rate,Tachycardia
+7,2,1,143,fainting,Tachycardia
+8,2,2,56,dizziness,Bradycardia
+9,21,1,33,chest pain,Bradycardia
+10,51,2,129,fainting,Tachycardia
+11,55,2,115,fainting,Tachycardia
+12,18,1,39,fatigue,Bradycardia
+13,47,2,36,confusion of memory problem,Bradycardia
+14,84,2,34,confusion of memory problem,Bradycardia
+15,16,1,96,heartbeat is normal,heartbeat is normal
+16,14,1,64,heartbeat is normal,heartbeat is normal
+17,17,2,81,heartbeat is normal,heartbeat is normal
+18,82,2,99,heartbeat is normal,heartbeat is normal
+19,7,2,39,confusion of memory problem,Bradycardia
+20,29,1,72,heartbeat is normal,heartbeat is normal
+21,2,2,142,fainting,Tachycardia
+22,17,2,110,fainting,Tachycardia
+23,49,1,133,fainting,Tachycardia
+24,23,1,53,chest pain,Bradycardia
+25,56,1,78,heartbeat is normal,heartbeat is normal
+26,21,1,129,fainting,Tachycardia
+27,55,1,37,shortness of breadth,Bradycardia
+28,49,1,39,fatigue,Bradycardia
+29,46,2,133,fainting,Tachycardia
+30,19,2,45,fatigue,Bradycardia
+31,24,2,86,heartbeat is normal,heartbeat is normal
+32,84,2,140,rapid pulse rate,Tachycardia
+33,39,2,80,heartbeat is normal,heartbeat is normal
+34,39,2,93,heartbeat is normal,heartbeat is normal
+35,30,1,70,heartbeat is normal,heartbeat is normal
+36,23,2,38,fatigue,Bradycardia
+37,37,1,94,heartbeat is normal,heartbeat is normal
+38,52,1,41,dizziness,Bradycardia
+39,26,2,136,heart palpitation,Tachycardia
+40,40,1,138,fainting,Tachycardia
+41,64,2,129,fainting,Tachycardia
+42,16,2,106,heart palpitation,Tachycardia
+43,79,1,79,heartbeat is normal,heartbeat is normal
+44,71,1,129,rapid pulse rate,Tachycardia
+45,76,2,108,heart palpitation,Tachycardia
+46,9,1,96,heartbeat is normal,heartbeat is normal
+47,67,2,138,heart palpitation,Tachycardia
+48,83,2,115,rapid pulse rate,Tachycardia
+49,52,2,45,shortness of breadth,Bradycardia
+50,30,1,77,heartbeat is normal,heartbeat is normal
+51,76,1,66,heartbeat is normal,heartbeat is normal
+52,22,1,86,heartbeat is normal,heartbeat is normal
+53,15,2,137,rapid pulse rate,Tachycardia
+54,57,2,56,chest pain,Bradycardia
+55,52,1,33,dizziness,Bradycardia
+56,77,2,121,heart palpitation,Tachycardia
+57,10,1,89,heartbeat is normal,heartbeat is normal
+58,13,1,96,heartbeat is normal,heartbeat is normal
+59,59,1,33,chest pain,Bradycardia
+60,30,2,149,fainting,Tachycardia
+61,67,2,122,heart palpitation,Tachycardia
+62,37,1,71,heartbeat is normal,heartbeat is normal
+63,76,2,120,heart palpitation,Tachycardia
+64,86,2,137,heart palpitation,Tachycardia
+65,77,1,85,heartbeat is normal,heartbeat is normal
+66,54,1,52,chest pain,Bradycardia
+67,57,1,53,fatigue,Bradycardia
+68,63,1,99,heartbeat is normal,heartbeat is normal
+69,36,1,141,rapid pulse rate,Tachycardia
+70,1,1,37,confusion of memory problem,Bradycardia
+71,61,1,87,heartbeat is normal,heartbeat is normal
+72,30,1,57,shortness of breadth,Bradycardia
+73,5,2,105,fainting,Tachycardia
+74,4,2,36,fatigue,Bradycardia
+75,1,2,54,chest pain,Bradycardia
+76,87,2,49,chest pain,Bradycardia
+77,2,1,82,heartbeat is normal,heartbeat is normal
+78,23,1,40,dizziness,Bradycardia
+79,26,1,73,heartbeat is normal,heartbeat is normal
+80,60,2,90,heartbeat is normal,heartbeat is normal
+81,62,1,36,fatigue,Bradycardia
+82,8,1,123,rapid pulse rate,Tachycardia
+83,1,2,117,rapid pulse rate,Tachycardia
+84,74,1,75,heartbeat is normal,heartbeat is normal
+85,80,2,82,heartbeat is normal,heartbeat is normal
+86,40,1,100,heartbeat is normal,heartbeat is normal
+87,20,2,125,rapid pulse rate,Tachycardia
+88,35,2,48,shortness of breadth,Bradycardia
+89,34,1,72,heartbeat is normal,heartbeat is normal
+90,73,1,109,fainting,Tachycardia
+91,88,1,38,fatigue,Bradycardia
+92,83,1,74,heartbeat is normal,heartbeat is normal
+93,43,2,112,heart palpitation,Tachycardia
+94,31,2,75,heartbeat is normal,heartbeat is normal
+95,55,2,78,heartbeat is normal,heartbeat is normal
+96,81,2,53,fatigue,Bradycardia
+97,37,2,91,heartbeat is normal,heartbeat is normal
+98,6,2,75,heartbeat is normal,heartbeat is normal
+99,25,2,122,heart palpitation,Tachycardia
+100,66,1,116,fainting,Tachycardia
+101,45,2,127,fainting,Tachycardia
+102,82,1,112,heart palpitation,Tachycardia
+103,84,1,40,shortness of breadth,Bradycardia
+104,74,1,132,heart palpitation,Tachycardia
+105,59,1,113,fainting,Tachycardia
+106,84,1,38,dizziness,Bradycardia
+107,42,1,46,chest pain,Bradycardia
+108,22,1,43,fatigue,Bradycardia
+109,61,2,83,heartbeat is normal,heartbeat is normal
+110,18,2,135,rapid pulse rate,Tachycardia
+111,11,2,72,heartbeat is normal,heartbeat is normal
+112,82,2,77,heartbeat is normal,heartbeat is normal
+113,68,2,122,fainting,Tachycardia
+114,81,2,40,confusion of memory problem,Bradycardia
+115,64,2,59,dizziness,Bradycardia
+116,79,1,127,heart palpitation,Tachycardia
+117,82,1,131,heart palpitation,Tachycardia
+118,59,1,116,heart palpitation,Tachycardia
+119,50,1,46,confusion of memory problem,Bradycardia
+120,60,1,134,heart palpitation,Tachycardia
+121,58,2,148,fainting,Tachycardia
+122,50,2,116,rapid pulse rate,Tachycardia
+123,48,2,122,heart palpitation,Tachycardia
+124,84,2,133,heart palpitation,Tachycardia
+125,79,2,37,chest pain,Bradycardia
+126,12,1,67,heartbeat is normal,heartbeat is normal
+127,19,2,30,shortness of breadth,Bradycardia
+128,84,1,69,heartbeat is normal,heartbeat is normal
+129,30,1,69,heartbeat is normal,heartbeat is normal
+130,19,1,118,rapid pulse rate,Tachycardia
+131,2,2,72,heartbeat is normal,heartbeat is normal
+132,34,2,57,dizziness,Bradycardia
+133,79,1,87,heartbeat is normal,heartbeat is normal
+134,28,2,78,heartbeat is normal,heartbeat is normal
+135,3,2,79,heartbeat is normal,heartbeat is normal
+136,61,1,121,rapid pulse rate,Tachycardia
+137,23,2,106,rapid pulse rate,Tachycardia
+138,46,1,99,heartbeat is normal,heartbeat is normal
+139,24,1,136,heart palpitation,Tachycardia
+140,50,1,71,heartbeat is normal,heartbeat is normal
+141,84,1,117,rapid pulse rate,Tachycardia
+142,41,2,53,shortness of breadth,Bradycardia
+143,40,2,56,fatigue,Bradycardia
+144,88,2,34,chest pain,Bradycardia
+145,89,1,144,heart palpitation,Tachycardia
+146,24,1,86,heartbeat is normal,heartbeat is normal
+147,78,2,147,fainting,Tachycardia
+148,13,2,49,chest pain,Bradycardia
+149,54,1,126,rapid pulse rate,Tachycardia
+150,67,2,94,heartbeat is normal,heartbeat is normal
+151,57,2,56,confusion of memory problem,Bradycardia
+152,44,2,145,heart palpitation,Tachycardia
+153,21,2,111,fainting,Tachycardia
+154,66,1,50,dizziness,Bradycardia
+155,40,2,71,heartbeat is normal,heartbeat is normal
+156,65,2,109,fainting,Tachycardia
+157,35,1,41,confusion of memory problem,Bradycardia
+158,53,1,131,rapid pulse rate,Tachycardia
+159,20,2,80,heartbeat is normal,heartbeat is normal
+160,79,2,116,fainting,Tachycardia
+161,4,2,58,confusion of memory problem,Bradycardia
+162,89,1,115,heart palpitation,Tachycardia
+163,18,1,111,rapid pulse rate,Tachycardia
+164,21,2,132,rapid pulse rate,Tachycardia
+165,33,1,60,dizziness,heartbeat is normal
+166,54,1,96,heartbeat is normal,heartbeat is normal
+167,60,2,56,chest pain,Bradycardia
+168,45,1,46,confusion of memory problem,Bradycardia
+169,50,2,134,rapid pulse rate,Tachycardia
+170,6,1,78,heartbeat is normal,heartbeat is normal
+171,74,2,142,fainting,Tachycardia
+172,37,2,104,fainting,Tachycardia
+173,3,2,146,rapid pulse rate,Tachycardia
+174,82,1,43,confusion of memory problem,Bradycardia
+175,77,2,30,confusion of memory problem,Bradycardia
+176,33,2,91,heartbeat is normal,heartbeat is normal
+177,29,2,47,dizziness,Bradycardia
+178,82,1,118,rapid pulse rate,Tachycardia
+179,10,1,39,shortness of breadth,Bradycardia
+180,60,1,124,heart palpitation,Tachycardia
+181,66,2,106,rapid pulse rate,Tachycardia
+182,9,1,137,heart palpitation,Tachycardia
+183,22,2,112,fainting,Tachycardia
+184,60,2,121,rapid pulse rate,Tachycardia
+185,19,1,51,dizziness,Bradycardia
+186,54,2,96,heartbeat is normal,heartbeat is normal
+187,20,1,134,fainting,Tachycardia
+188,85,2,93,heartbeat is normal,heartbeat is normal
+189,85,2,135,heart palpitation,Tachycardia
+190,41,1,116,fainting,Tachycardia
+191,23,2,46,chest pain,Bradycardia
+192,15,2,66,heartbeat is normal,heartbeat is normal
+193,14,2,92,heartbeat is normal,heartbeat is normal
+194,43,2,133,rapid pulse rate,Tachycardia
+195,67,1,40,confusion of memory problem,Bradycardia
+196,62,2,112,heart palpitation,Tachycardia
+197,3,1,46,confusion of memory problem,Bradycardia
+198,15,1,102,fainting,Tachycardia
+199,22,2,76,heartbeat is normal,heartbeat is normal
+200,54,2,58,shortness of breadth,Bradycardia
+201,59,1,60,dizziness,heartbeat is normal
+202,5,2,38,shortness of breadth,Bradycardia
+203,80,1,35,confusion of memory problem,Bradycardia
+204,83,1,32,dizziness,Bradycardia
+205,83,1,110,rapid pulse rate,Tachycardia
+206,30,1,59,fatigue,Bradycardia
+207,80,2,56,dizziness,Bradycardia
+208,14,2,130,fainting,Tachycardia
+209,70,1,45,confusion of memory problem,Bradycardia
+210,32,1,41,shortness of breadth,Bradycardia
+211,78,1,58,fatigue,Bradycardia
+212,1,2,74,heartbeat is normal,heartbeat is normal
+213,55,1,142,fainting,Tachycardia
+214,41,1,47,shortness of breadth,Bradycardia
+215,76,2,33,dizziness,Bradycardia
+216,24,2,33,confusion of memory problem,Bradycardia
+217,44,2,48,fatigue,Bradycardia
+218,57,2,58,confusion of memory problem,Bradycardia
+219,17,1,69,heartbeat is normal,heartbeat is normal
+220,57,1,136,fainting,Tachycardia
+221,15,2,127,rapid pulse rate,Tachycardia
+222,64,2,72,heartbeat is normal,heartbeat is normal
+223,40,1,54,chest pain,Bradycardia
+224,58,2,119,heart palpitation,Tachycardia
+225,71,1,64,heartbeat is normal,heartbeat is normal
+226,21,2,48,dizziness,Bradycardia
+227,60,2,83,heartbeat is normal,heartbeat is normal
+228,63,2,94,heartbeat is normal,heartbeat is normal
+229,4,2,111,rapid pulse rate,Tachycardia
+230,46,2,120,heart palpitation,Tachycardia
+231,34,1,38,shortness of breadth,Bradycardia
+232,60,1,72,heartbeat is normal,heartbeat is normal
+233,10,2,111,rapid pulse rate,Tachycardia
+234,69,2,36,fatigue,Bradycardia
+235,39,2,90,heartbeat is normal,heartbeat is normal
+236,24,2,119,heart palpitation,Tachycardia
+237,36,2,92,heartbeat is normal,heartbeat is normal
+238,21,1,54,shortness of breadth,Bradycardia
+239,37,2,61,heartbeat is normal,heartbeat is normal
+240,23,2,105,fainting,Tachycardia
+241,48,1,57,chest pain,Bradycardia
+242,80,2,86,heartbeat is normal,heartbeat is normal
+243,32,2,32,shortness of breadth,Bradycardia
+244,37,1,122,rapid pulse rate,Tachycardia
+245,41,1,37,fatigue,Bradycardia
+246,50,1,82,heartbeat is normal,heartbeat is normal
+247,70,2,100,heartbeat is normal,heartbeat is normal
+248,44,1,80,heartbeat is normal,heartbeat is normal
+249,69,2,57,confusion of memory problem,Bradycardia
+250,18,2,75,heartbeat is normal,heartbeat is normal
+251,74,2,125,fainting,Tachycardia
+252,10,1,52,chest pain,Bradycardia
+253,5,2,101,rapid pulse rate,Tachycardia
+254,60,1,54,confusion of memory problem,Bradycardia
+255,8,1,109,fainting,Tachycardia
+256,21,1,35,shortness of breadth,Bradycardia
+257,46,2,147,heart palpitation,Tachycardia
+258,79,2,58,shortness of breadth,Bradycardia
+259,16,2,115,rapid pulse rate,Tachycardia
+260,78,1,102,rapid pulse rate,Tachycardia
+261,62,1,58,fatigue,Bradycardia
+262,67,1,89,heartbeat is normal,heartbeat is normal
+263,8,1,114,fainting,Tachycardia
+264,63,2,106,rapid pulse rate,Tachycardia
+265,17,1,104,rapid pulse rate,Tachycardia
+266,77,2,46,chest pain,Bradycardia
+267,20,2,87,heartbeat is normal,heartbeat is normal
+268,54,2,138,fainting,Tachycardia
+269,25,1,83,heartbeat is normal,heartbeat is normal
+270,22,1,104,rapid pulse rate,Tachycardia
+271,22,2,129,heart palpitation,Tachycardia
+272,2,1,126,fainting,Tachycardia
+273,86,2,136,rapid pulse rate,Tachycardia
+274,13,2,113,heart palpitation,Tachycardia
+275,69,1,126,rapid pulse rate,Tachycardia
+276,2,2,40,shortness of breadth,Bradycardia
+277,32,1,52,dizziness,Bradycardia
+278,52,1,81,heartbeat is normal,heartbeat is normal
+279,1,2,93,heartbeat is normal,heartbeat is normal
+280,7,2,79,heartbeat is normal,heartbeat is normal
+281,26,1,46,chest pain,Bradycardia
+282,83,1,49,confusion of memory problem,Bradycardia
+283,13,1,144,fainting,Tachycardia
+284,69,2,113,fainting,Tachycardia
+285,58,2,105,fainting,Tachycardia
+286,53,2,65,heartbeat is normal,heartbeat is normal
+287,69,2,34,fatigue,Bradycardia
+288,61,1,129,rapid pulse rate,Tachycardia
+289,31,1,33,fatigue,Bradycardia
+290,6,1,62,heartbeat is normal,heartbeat is normal
+291,77,1,131,fainting,Tachycardia
+292,71,1,139,fainting,Tachycardia
+293,81,1,65,heartbeat is normal,heartbeat is normal
+294,8,2,55,chest pain,Bradycardia
+295,33,1,63,heartbeat is normal,heartbeat is normal
+296,41,2,134,fainting,Tachycardia
+297,37,2,51,fatigue,Bradycardia
+298,24,2,79,heartbeat is normal,heartbeat is normal
+299,66,1,60,dizziness,heartbeat is normal
+300,50,1,60,chest pain,heartbeat is normal
+301,67,2,40,chest pain,Bradycardia
+302,79,2,84,heartbeat is normal,heartbeat is normal
+303,9,1,93,heartbeat is normal,heartbeat is normal
+304,87,1,47,dizziness,Bradycardia
+305,14,2,77,heartbeat is normal,heartbeat is normal
+306,37,2,136,fainting,Tachycardia
+307,56,2,107,heart palpitation,Tachycardia
+308,64,2,90,heartbeat is normal,heartbeat is normal
+309,3,2,148,rapid pulse rate,Tachycardia
+310,13,1,134,rapid pulse rate,Tachycardia
+311,72,2,41,confusion of memory problem,Bradycardia
+312,41,2,105,rapid pulse rate,Tachycardia
+313,66,2,61,heartbeat is normal,heartbeat is normal
+314,53,1,89,heartbeat is normal,heartbeat is normal
+315,77,2,54,shortness of breadth,Bradycardia
+316,86,2,47,chest pain,Bradycardia
+317,39,2,95,heartbeat is normal,heartbeat is normal
+318,36,1,87,heartbeat is normal,heartbeat is normal
+319,21,2,57,confusion of memory problem,Bradycardia
+320,17,1,146,fainting,Tachycardia
+321,77,1,66,heartbeat is normal,heartbeat is normal
+322,29,2,143,heart palpitation,Tachycardia
+323,54,2,123,heart palpitation,Tachycardia
+324,23,2,38,chest pain,Bradycardia
+325,79,1,102,rapid pulse rate,Tachycardia
+326,52,1,102,heart palpitation,Tachycardia
+327,78,2,56,dizziness,Bradycardia
+328,54,2,60,chest pain,heartbeat is normal
+329,45,2,44,chest pain,Bradycardia
+330,25,2,103,rapid pulse rate,Tachycardia
+331,73,1,140,heart palpitation,Tachycardia
+332,68,1,100,heartbeat is normal,heartbeat is normal
+333,78,2,52,shortness of breadth,Bradycardia
+334,75,2,128,rapid pulse rate,Tachycardia
+335,30,2,77,heartbeat is normal,heartbeat is normal
+336,5,1,75,heartbeat is normal,heartbeat is normal
+337,89,2,91,heartbeat is normal,heartbeat is normal
+338,38,2,93,heartbeat is normal,heartbeat is normal
+339,27,2,77,heartbeat is normal,heartbeat is normal
+340,35,1,108,rapid pulse rate,Tachycardia
+341,55,1,135,heart palpitation,Tachycardia
+342,87,2,72,heartbeat is normal,heartbeat is normal
+343,37,1,63,heartbeat is normal,heartbeat is normal
+344,84,2,91,heartbeat is normal,heartbeat is normal
+345,87,2,118,rapid pulse rate,Tachycardia
+346,35,1,72,heartbeat is normal,heartbeat is normal
+347,74,2,86,heartbeat is normal,heartbeat is normal
+348,70,1,134,heart palpitation,Tachycardia
+349,58,1,39,shortness of breadth,Bradycardia
+350,1,2,121,heart palpitation,Tachycardia
+351,16,2,139,rapid pulse rate,Tachycardia
+352,84,2,109,rapid pulse rate,Tachycardia
+353,78,2,75,heartbeat is normal,heartbeat is normal
+354,81,1,107,rapid pulse rate,Tachycardia
+355,19,1,131,rapid pulse rate,Tachycardia
+356,83,2,142,fainting,Tachycardia
+357,6,2,33,dizziness,Bradycardia
+358,75,2,38,shortness of breadth,Bradycardia
+359,83,1,94,heartbeat is normal,heartbeat is normal
+360,59,2,103,rapid pulse rate,Tachycardia
+361,16,1,61,heartbeat is normal,heartbeat is normal
+362,19,1,90,heartbeat is normal,heartbeat is normal
+363,28,2,70,heartbeat is normal,heartbeat is normal
+364,23,2,113,rapid pulse rate,Tachycardia
+365,22,2,103,fainting,Tachycardia
+366,37,1,113,fainting,Tachycardia
+367,85,1,82,heartbeat is normal,heartbeat is normal
+368,15,2,131,heart palpitation,Tachycardia
+369,43,1,85,heartbeat is normal,heartbeat is normal
+370,61,1,119,rapid pulse rate,Tachycardia
+371,76,1,57,shortness of breadth,Bradycardia
+372,46,2,129,fainting,Tachycardia
+373,7,1,143,heart palpitation,Tachycardia
+374,81,1,127,rapid pulse rate,Tachycardia
+375,23,1,79,heartbeat is normal,heartbeat is normal
+376,30,1,44,confusion of memory problem,Bradycardia
+377,12,2,98,heartbeat is normal,heartbeat is normal
+378,69,1,52,shortness of breadth,Bradycardia
+379,2,2,62,heartbeat is normal,heartbeat is normal
+380,20,1,125,fainting,Tachycardia
+381,21,1,128,heart palpitation,Tachycardia
+382,72,1,34,confusion of memory problem,Bradycardia
+383,41,1,101,heart palpitation,Tachycardia
+384,34,2,50,fatigue,Bradycardia
+385,45,1,33,dizziness,Bradycardia
+386,3,1,47,confusion of memory problem,Bradycardia
+387,66,1,87,heartbeat is normal,heartbeat is normal
+388,85,1,72,heartbeat is normal,heartbeat is normal
+389,25,2,97,heartbeat is normal,heartbeat is normal
+390,33,1,36,fatigue,Bradycardia
+391,10,2,74,heartbeat is normal,heartbeat is normal
+392,70,2,94,heartbeat is normal,heartbeat is normal
+393,78,2,114,fainting,Tachycardia
+394,33,1,139,rapid pulse rate,Tachycardia
+395,74,2,69,heartbeat is normal,heartbeat is normal
+396,73,1,93,heartbeat is normal,heartbeat is normal
+397,59,2,103,heart palpitation,Tachycardia
+398,80,1,123,heart palpitation,Tachycardia
+399,32,2,32,shortness of breadth,Bradycardia
+400,22,1,105,heart palpitation,Tachycardia
+401,78,1,144,fainting,Tachycardia
+402,84,1,105,fainting,Tachycardia
+403,32,1,145,rapid pulse rate,Tachycardia
+404,67,2,128,fainting,Tachycardia
+405,68,2,142,rapid pulse rate,Tachycardia
+406,25,1,136,rapid pulse rate,Tachycardia
+407,5,1,41,fatigue,Bradycardia
+408,75,1,146,rapid pulse rate,Tachycardia
+409,52,1,148,rapid pulse rate,Tachycardia
+410,72,1,42,confusion of memory problem,Bradycardia
+411,76,1,119,heart palpitation,Tachycardia
+412,24,1,106,heart palpitation,Tachycardia
+413,86,1,103,heart palpitation,Tachycardia
+414,14,2,45,chest pain,Bradycardia
+415,29,2,94,heartbeat is normal,heartbeat is normal
+416,72,1,84,heartbeat is normal,heartbeat is normal
+417,36,2,147,rapid pulse rate,Tachycardia
+418,20,2,122,fainting,Tachycardia
+419,70,2,48,chest pain,Bradycardia
+420,8,2,102,fainting,Tachycardia
+421,61,1,92,heartbeat is normal,heartbeat is normal
+422,15,2,128,rapid pulse rate,Tachycardia
+423,52,1,75,heartbeat is normal,heartbeat is normal
+424,86,2,60,shortness of breadth,heartbeat is normal
+425,63,2,48,chest pain,Bradycardia
+426,70,2,134,rapid pulse rate,Tachycardia
+427,86,1,105,heart palpitation,Tachycardia
+428,14,1,76,heartbeat is normal,heartbeat is normal
+429,1,2,119,heart palpitation,Tachycardia
+430,57,2,50,shortness of breadth,Bradycardia
+431,48,1,119,heart palpitation,Tachycardia
+432,16,2,148,fainting,Tachycardia
+433,30,2,99,heartbeat is normal,heartbeat is normal
+434,4,1,45,chest pain,Bradycardia
+435,53,2,71,heartbeat is normal,heartbeat is normal
+436,78,2,54,shortness of breadth,Bradycardia
+437,37,1,71,heartbeat is normal,heartbeat is normal
+438,6,1,97,heartbeat is normal,heartbeat is normal
+439,4,1,90,heartbeat is normal,heartbeat is normal
+440,80,1,84,heartbeat is normal,heartbeat is normal
+441,39,2,63,heartbeat is normal,heartbeat is normal
+442,17,2,89,heartbeat is normal,heartbeat is normal
+443,12,1,106,heart palpitation,Tachycardia
+444,24,1,139,heart palpitation,Tachycardia
+445,68,1,109,rapid pulse rate,Tachycardia
+446,27,1,103,heart palpitation,Tachycardia
+447,51,2,49,fatigue,Bradycardia
+448,54,2,144,rapid pulse rate,Tachycardia
+449,59,2,123,heart palpitation,Tachycardia
+450,87,2,101,fainting,Tachycardia
+451,84,1,72,heartbeat is normal,heartbeat is normal
+452,78,2,101,rapid pulse rate,Tachycardia
+453,47,1,33,chest pain,Bradycardia
+454,38,2,141,rapid pulse rate,Tachycardia
+455,71,2,75,heartbeat is normal,heartbeat is normal
+456,25,2,87,heartbeat is normal,heartbeat is normal
+457,8,2,43,shortness of breadth,Bradycardia
+458,25,2,62,heartbeat is normal,heartbeat is normal
+459,85,2,36,shortness of breadth,Bradycardia
+460,7,1,74,heartbeat is normal,heartbeat is normal
+461,24,2,51,confusion of memory problem,Bradycardia
+462,85,1,120,fainting,Tachycardia
+463,40,1,63,heartbeat is normal,heartbeat is normal
+464,75,2,74,heartbeat is normal,heartbeat is normal
+465,31,2,139,rapid pulse rate,Tachycardia
+466,63,2,135,rapid pulse rate,Tachycardia
+467,25,2,44,shortness of breadth,Bradycardia
+468,61,1,82,heartbeat is normal,heartbeat is normal
+469,73,1,132,heart palpitation,Tachycardia
+470,16,1,106,fainting,Tachycardia
+471,35,2,67,heartbeat is normal,heartbeat is normal
+472,13,2,40,chest pain,Bradycardia
+473,73,1,53,chest pain,Bradycardia
+474,45,2,119,rapid pulse rate,Tachycardia
+475,60,1,43,fatigue,Bradycardia
+476,59,1,61,heartbeat is normal,heartbeat is normal
+477,65,2,95,heartbeat is normal,heartbeat is normal
+478,14,1,149,heart palpitation,Tachycardia
+479,46,2,97,heartbeat is normal,heartbeat is normal
+480,52,1,39,confusion of memory problem,Bradycardia
+481,71,1,82,heartbeat is normal,heartbeat is normal
+482,58,1,137,heart palpitation,Tachycardia
+483,25,1,141,fainting,Tachycardia
+484,27,1,89,heartbeat is normal,heartbeat is normal
+485,13,2,65,heartbeat is normal,heartbeat is normal
+486,81,1,53,chest pain,Bradycardia
+487,2,2,40,dizziness,Bradycardia
+488,6,1,89,heartbeat is normal,heartbeat is normal
+489,28,2,72,heartbeat is normal,heartbeat is normal
+490,7,2,42,shortness of breadth,Bradycardia
+491,75,2,84,heartbeat is normal,heartbeat is normal
+492,66,2,41,shortness of breadth,Bradycardia
+493,10,2,58,shortness of breadth,Bradycardia
+494,67,2,52,chest pain,Bradycardia
+495,75,1,121,fainting,Tachycardia
+496,71,2,96,heartbeat is normal,heartbeat is normal
+497,66,2,105,heart palpitation,Tachycardia
+498,13,1,30,chest pain,Bradycardia
+499,7,1,134,rapid pulse rate,Tachycardia
+500,71,1,69,heartbeat is normal,heartbeat is normal
+501,56,2,62,heartbeat is normal,heartbeat is normal
+502,60,1,149,heart palpitation,Tachycardia
+503,68,1,57,chest pain,Bradycardia
+504,55,1,149,rapid pulse rate,Tachycardia
+505,34,1,33,confusion of memory problem,Bradycardia
+506,3,1,54,dizziness,Bradycardia
+507,8,1,58,chest pain,Bradycardia
+508,74,1,94,heartbeat is normal,heartbeat is normal
+509,32,1,51,chest pain,Bradycardia
+510,87,1,124,fainting,Tachycardia
+511,41,2,53,confusion of memory problem,Bradycardia
+512,7,2,128,rapid pulse rate,Tachycardia
+513,60,2,120,fainting,Tachycardia
+514,10,1,96,heartbeat is normal,heartbeat is normal
+515,1,1,71,heartbeat is normal,heartbeat is normal
+516,37,1,49,fatigue,Bradycardia
+517,10,1,145,fainting,Tachycardia
+518,83,1,48,fatigue,Bradycardia
+519,24,2,133,heart palpitation,Tachycardia
+520,59,2,140,heart palpitation,Tachycardia
+521,17,1,70,heartbeat is normal,heartbeat is normal
+522,76,2,81,heartbeat is normal,heartbeat is normal
+523,59,1,139,fainting,Tachycardia
+524,64,1,52,confusion of memory problem,Bradycardia
+525,74,1,115,heart palpitation,Tachycardia
+526,57,1,120,heart palpitation,Tachycardia
+527,63,1,66,heartbeat is normal,heartbeat is normal
+528,21,1,125,heart palpitation,Tachycardia
+529,72,1,72,heartbeat is normal,heartbeat is normal
+530,1,1,47,confusion of memory problem,Bradycardia
+531,28,1,142,fainting,Tachycardia
+532,76,1,91,heartbeat is normal,heartbeat is normal
+533,18,1,113,rapid pulse rate,Tachycardia
+534,19,1,88,heartbeat is normal,heartbeat is normal
+535,86,1,107,heart palpitation,Tachycardia
+536,16,2,109,rapid pulse rate,Tachycardia
+537,42,2,109,heart palpitation,Tachycardia
+538,24,2,127,fainting,Tachycardia
+539,78,2,89,heartbeat is normal,heartbeat is normal
+540,72,1,80,heartbeat is normal,heartbeat is normal
+541,17,2,35,dizziness,Bradycardia
+542,28,1,44,confusion of memory problem,Bradycardia
+543,26,1,90,heartbeat is normal,heartbeat is normal
+544,55,1,148,fainting,Tachycardia
+545,65,2,120,fainting,Tachycardia
+546,73,1,55,fatigue,Bradycardia
+547,24,1,133,fainting,Tachycardia
+548,7,1,44,chest pain,Bradycardia
+549,49,2,49,fatigue,Bradycardia
+550,3,2,93,heartbeat is normal,heartbeat is normal
+551,83,1,115,rapid pulse rate,Tachycardia
+552,80,2,68,heartbeat is normal,heartbeat is normal
+553,5,1,64,heartbeat is normal,heartbeat is normal
+554,41,2,74,heartbeat is normal,heartbeat is normal
+555,23,2,132,heart palpitation,Tachycardia
+556,71,1,71,heartbeat is normal,heartbeat is normal
+557,25,2,31,confusion of memory problem,Bradycardia
+558,17,1,38,fatigue,Bradycardia
+559,5,1,74,heartbeat is normal,heartbeat is normal
+560,86,1,56,shortness of breadth,Bradycardia
+561,7,2,46,dizziness,Bradycardia
+562,62,2,125,rapid pulse rate,Tachycardia
+563,55,2,84,heartbeat is normal,heartbeat is normal
+564,88,2,104,heart palpitation,Tachycardia
+565,24,1,108,fainting,Tachycardia
+566,86,1,122,heart palpitation,Tachycardia
+567,80,1,91,heartbeat is normal,heartbeat is normal
+568,31,2,48,fatigue,Bradycardia
+569,77,2,98,heartbeat is normal,heartbeat is normal
+570,55,2,80,heartbeat is normal,heartbeat is normal
+571,65,1,90,heartbeat is normal,heartbeat is normal
+572,45,1,102,heart palpitation,Tachycardia
+573,54,2,41,shortness of breadth,Bradycardia
+574,53,1,53,chest pain,Bradycardia
+575,79,2,96,heartbeat is normal,heartbeat is normal
+576,4,1,71,heartbeat is normal,heartbeat is normal
+577,59,2,39,fatigue,Bradycardia
+578,48,1,70,heartbeat is normal,heartbeat is normal
+579,62,1,116,fainting,Tachycardia
+580,66,1,89,heartbeat is normal,heartbeat is normal
+581,42,1,120,fainting,Tachycardia
+582,23,1,96,heartbeat is normal,heartbeat is normal
+583,19,1,136,heart palpitation,Tachycardia
+584,78,2,65,heartbeat is normal,heartbeat is normal
+585,85,2,75,heartbeat is normal,heartbeat is normal
+586,62,2,47,dizziness,Bradycardia
+587,8,1,66,heartbeat is normal,heartbeat is normal
+588,14,1,33,fatigue,Bradycardia
+589,8,2,114,fainting,Tachycardia
+590,33,1,94,heartbeat is normal,heartbeat is normal
+591,88,2,85,heartbeat is normal,heartbeat is normal
+592,65,2,117,rapid pulse rate,Tachycardia
+593,50,2,66,heartbeat is normal,heartbeat is normal
+594,67,1,113,fainting,Tachycardia
+595,51,2,100,heartbeat is normal,heartbeat is normal
+596,20,2,145,heart palpitation,Tachycardia
+597,46,1,132,rapid pulse rate,Tachycardia
+598,64,1,112,rapid pulse rate,Tachycardia
+599,44,1,32,confusion of memory problem,Bradycardia
+600,69,1,106,heart palpitation,Tachycardia
+601,40,1,106,rapid pulse rate,Tachycardia
+602,83,1,56,confusion of memory problem,Bradycardia
+603,8,2,138,heart palpitation,Tachycardia
+604,14,1,136,heart palpitation,Tachycardia
+605,26,1,124,heart palpitation,Tachycardia
+606,49,2,65,heartbeat is normal,heartbeat is normal
+607,76,2,94,heartbeat is normal,heartbeat is normal
+608,80,1,125,heart palpitation,Tachycardia
+609,39,2,33,chest pain,Bradycardia
+610,37,1,120,heart palpitation,Tachycardia
+611,51,1,43,dizziness,Bradycardia
+612,57,1,130,rapid pulse rate,Tachycardia
+613,49,2,124,rapid pulse rate,Tachycardia
+614,30,1,90,heartbeat is normal,heartbeat is normal
+615,72,2,116,fainting,Tachycardia
+616,15,2,30,dizziness,Bradycardia
+617,10,1,133,fainting,Tachycardia
+618,41,2,69,heartbeat is normal,heartbeat is normal
+619,74,2,67,heartbeat is normal,heartbeat is normal
+620,83,1,134,rapid pulse rate,Tachycardia
+621,37,1,114,heart palpitation,Tachycardia
+622,88,1,143,heart palpitation,Tachycardia
+623,72,1,35,confusion of memory problem,Bradycardia
+624,74,1,60,fatigue,heartbeat is normal
+625,35,2,128,heart palpitation,Tachycardia
+626,81,2,70,heartbeat is normal,heartbeat is normal
+627,5,1,125,rapid pulse rate,Tachycardia
+628,79,2,127,fainting,Tachycardia
+629,34,1,120,heart palpitation,Tachycardia
+630,39,2,36,fatigue,Bradycardia
+631,9,1,134,heart palpitation,Tachycardia
+632,70,1,126,fainting,Tachycardia
+633,27,1,58,confusion of memory problem,Bradycardia
+634,41,1,58,shortness of breadth,Bradycardia
+635,9,2,32,confusion of memory problem,Bradycardia
+636,27,2,45,confusion of memory problem,Bradycardia
+637,26,1,33,shortness of breadth,Bradycardia
+638,88,1,147,rapid pulse rate,Tachycardia
+639,78,2,78,heartbeat is normal,heartbeat is normal
+640,34,2,43,confusion of memory problem,Bradycardia
+641,49,1,87,heartbeat is normal,heartbeat is normal
+642,86,2,83,heartbeat is normal,heartbeat is normal
+643,20,1,71,heartbeat is normal,heartbeat is normal
+644,66,1,128,heart palpitation,Tachycardia
+645,61,2,101,fainting,Tachycardia
+646,74,2,124,fainting,Tachycardia
+647,34,2,117,heart palpitation,Tachycardia
+648,14,2,65,heartbeat is normal,heartbeat is normal
+649,32,1,114,heart palpitation,Tachycardia
+650,45,1,116,fainting,Tachycardia
+651,19,1,41,chest pain,Bradycardia
+652,55,2,45,dizziness,Bradycardia
+653,78,1,83,heartbeat is normal,heartbeat is normal
+654,40,2,67,heartbeat is normal,heartbeat is normal
+655,18,2,46,fatigue,Bradycardia
+656,27,2,97,heartbeat is normal,heartbeat is normal
+657,88,1,53,fatigue,Bradycardia
+658,22,2,39,dizziness,Bradycardia
+659,68,2,57,fatigue,Bradycardia
+660,35,2,117,fainting,Tachycardia
+661,15,1,79,heartbeat is normal,heartbeat is normal
+662,44,2,92,heartbeat is normal,heartbeat is normal
+663,42,1,31,chest pain,Bradycardia
+664,66,2,55,shortness of breadth,Bradycardia
+665,5,1,106,fainting,Tachycardia
+666,8,1,120,heart palpitation,Tachycardia
+667,2,2,106,heart palpitation,Tachycardia
+668,50,2,63,heartbeat is normal,heartbeat is normal
+669,61,2,112,heart palpitation,Tachycardia
+670,33,2,40,chest pain,Bradycardia
+671,12,1,107,heart palpitation,Tachycardia
+672,26,2,73,heartbeat is normal,heartbeat is normal
+673,22,1,106,rapid pulse rate,Tachycardia
+674,52,1,125,rapid pulse rate,Tachycardia
+675,34,2,46,chest pain,Bradycardia
+676,76,2,135,heart palpitation,Tachycardia
+677,59,2,143,heart palpitation,Tachycardia
+678,71,2,55,chest pain,Bradycardia
+679,86,2,93,heartbeat is normal,heartbeat is normal
+680,51,2,36,shortness of breadth,Bradycardia
+681,12,2,132,heart palpitation,Tachycardia
+682,78,2,140,rapid pulse rate,Tachycardia
+683,80,1,85,heartbeat is normal,heartbeat is normal
+684,39,1,133,fainting,Tachycardia
+685,60,2,123,rapid pulse rate,Tachycardia
+686,33,2,63,heartbeat is normal,heartbeat is normal
+687,62,2,92,heartbeat is normal,heartbeat is normal
+688,61,2,39,fatigue,Bradycardia
+689,26,1,67,heartbeat is normal,heartbeat is normal
+690,76,1,39,chest pain,Bradycardia
+691,73,2,84,heartbeat is normal,heartbeat is normal
+692,51,1,128,fainting,Tachycardia
+693,47,1,121,fainting,Tachycardia
+694,2,2,79,heartbeat is normal,heartbeat is normal
+695,67,1,77,heartbeat is normal,heartbeat is normal
+696,35,1,126,fainting,Tachycardia
+697,77,2,47,fatigue,Bradycardia
+698,9,1,50,chest pain,Bradycardia
+699,21,1,67,heartbeat is normal,heartbeat is normal
+700,73,1,144,fainting,Tachycardia
+701,47,1,66,heartbeat is normal,heartbeat is normal
+702,77,2,109,heart palpitation,Tachycardia
+703,56,2,54,chest pain,Bradycardia
+704,62,1,89,heartbeat is normal,heartbeat is normal
+705,74,1,74,heartbeat is normal,heartbeat is normal
+706,72,1,110,rapid pulse rate,Tachycardia
+707,66,2,113,rapid pulse rate,Tachycardia
+708,1,1,92,heartbeat is normal,heartbeat is normal
+709,75,1,48,fatigue,Bradycardia
+710,62,2,89,heartbeat is normal,heartbeat is normal
+711,19,1,64,heartbeat is normal,heartbeat is normal
+712,54,1,76,heartbeat is normal,heartbeat is normal
+713,29,1,125,fainting,Tachycardia
+714,75,2,65,heartbeat is normal,heartbeat is normal
+715,42,2,62,heartbeat is normal,heartbeat is normal
+716,66,1,78,heartbeat is normal,heartbeat is normal
+717,7,1,145,heart palpitation,Tachycardia
+718,88,2,65,heartbeat is normal,heartbeat is normal
+719,50,2,121,heart palpitation,Tachycardia
+720,60,2,87,heartbeat is normal,heartbeat is normal
+721,60,2,56,shortness of breadth,Bradycardia
+722,7,2,72,heartbeat is normal,heartbeat is normal
+723,6,1,46,shortness of breadth,Bradycardia
+724,11,2,105,rapid pulse rate,Tachycardia
+725,65,2,49,chest pain,Bradycardia
+726,6,2,99,heartbeat is normal,heartbeat is normal
+727,52,2,125,rapid pulse rate,Tachycardia
+728,59,2,133,heart palpitation,Tachycardia
+729,65,2,122,fainting,Tachycardia
+730,26,2,101,heart palpitation,Tachycardia
+731,48,2,106,fainting,Tachycardia
+732,58,2,61,heartbeat is normal,heartbeat is normal
+733,57,1,62,heartbeat is normal,heartbeat is normal
+734,82,2,72,heartbeat is normal,heartbeat is normal
+735,88,1,131,rapid pulse rate,Tachycardia
+736,39,2,49,chest pain,Bradycardia
+737,89,2,92,heartbeat is normal,heartbeat is normal
+738,81,2,123,rapid pulse rate,Tachycardia
+739,69,2,111,heart palpitation,Tachycardia
+740,85,1,125,fainting,Tachycardia
+741,10,2,35,dizziness,Bradycardia
+742,79,1,32,dizziness,Bradycardia
+743,13,2,56,fatigue,Bradycardia
+744,42,2,79,heartbeat is normal,heartbeat is normal
+745,45,1,115,fainting,Tachycardia
+746,69,2,60,chest pain,heartbeat is normal
+747,53,1,60,fatigue,heartbeat is normal
+748,30,1,111,fainting,Tachycardia
+749,79,1,132,rapid pulse rate,Tachycardia
+750,40,2,45,fatigue,Bradycardia
+751,64,2,105,heart palpitation,Tachycardia
+752,54,2,107,fainting,Tachycardia
+753,88,2,84,heartbeat is normal,heartbeat is normal
+754,62,1,66,heartbeat is normal,heartbeat is normal
+755,67,1,32,shortness of breadth,Bradycardia
+756,76,1,43,shortness of breadth,Bradycardia
+757,27,1,65,heartbeat is normal,heartbeat is normal
+758,72,1,106,heart palpitation,Tachycardia
+759,28,2,118,rapid pulse rate,Tachycardia
+760,82,1,54,fatigue,Bradycardia
+761,89,1,112,fainting,Tachycardia
+762,19,2,46,shortness of breadth,Bradycardia
+763,36,1,53,dizziness,Bradycardia
+764,87,1,76,heartbeat is normal,heartbeat is normal
+765,63,2,145,fainting,Tachycardia
+766,89,2,106,fainting,Tachycardia
+767,83,1,119,fainting,Tachycardia
+768,52,2,128,fainting,Tachycardia
+769,18,2,59,fatigue,Bradycardia
+770,20,2,98,heartbeat is normal,heartbeat is normal
+771,73,2,82,heartbeat is normal,heartbeat is normal
+772,45,2,37,confusion of memory problem,Bradycardia
+773,17,1,129,rapid pulse rate,Tachycardia
+774,70,1,38,chest pain,Bradycardia
+775,75,1,143,fainting,Tachycardia
+776,25,1,55,confusion of memory problem,Bradycardia
+777,5,2,45,fatigue,Bradycardia
+778,79,1,131,fainting,Tachycardia
+779,79,1,134,rapid pulse rate,Tachycardia
+780,78,2,33,fatigue,Bradycardia
+781,62,2,93,heartbeat is normal,heartbeat is normal
+782,18,2,95,heartbeat is normal,heartbeat is normal
+783,51,1,129,fainting,Tachycardia
+784,55,1,41,chest pain,Bradycardia
+785,67,1,149,rapid pulse rate,Tachycardia
+786,87,1,40,fatigue,Bradycardia
+787,63,1,98,heartbeat is normal,heartbeat is normal
+788,41,1,119,rapid pulse rate,Tachycardia
+789,27,1,130,rapid pulse rate,Tachycardia
+790,20,2,52,shortness of breadth,Bradycardia
+791,10,1,58,confusion of memory problem,Bradycardia
+792,42,1,45,confusion of memory problem,Bradycardia
+793,70,1,58,chest pain,Bradycardia
+794,19,2,125,heart palpitation,Tachycardia
+795,57,2,141,rapid pulse rate,Tachycardia
+796,25,1,54,fatigue,Bradycardia
+797,88,1,44,chest pain,Bradycardia
+798,47,2,144,fainting,Tachycardia
+799,15,1,101,rapid pulse rate,Tachycardia
+800,18,1,53,fatigue,Bradycardia
+801,39,1,127,fainting,Tachycardia
+802,61,1,39,fatigue,Bradycardia
+803,65,1,147,heart palpitation,Tachycardia
+804,22,1,107,heart palpitation,Tachycardia
+805,20,1,46,confusion of memory problem,Bradycardia
+806,45,2,121,fainting,Tachycardia
+807,17,2,65,heartbeat is normal,heartbeat is normal
+808,49,1,122,heart palpitation,Tachycardia
+809,75,2,39,dizziness,Bradycardia
+810,18,1,82,heartbeat is normal,heartbeat is normal
+811,33,1,113,heart palpitation,Tachycardia
+812,75,2,85,heartbeat is normal,heartbeat is normal
+813,87,2,49,fatigue,Bradycardia
+814,14,1,118,heart palpitation,Tachycardia
+815,18,1,76,heartbeat is normal,heartbeat is normal
+816,78,1,119,heart palpitation,Tachycardia
+817,32,1,113,heart palpitation,Tachycardia
+818,46,1,48,shortness of breadth,Bradycardia
+819,18,2,75,heartbeat is normal,heartbeat is normal
+820,5,2,140,fainting,Tachycardia
+821,52,1,102,rapid pulse rate,Tachycardia
+822,9,2,116,rapid pulse rate,Tachycardia
+823,8,1,121,heart palpitation,Tachycardia
+824,22,2,138,heart palpitation,Tachycardia
+825,63,2,140,heart palpitation,Tachycardia
+826,32,2,121,rapid pulse rate,Tachycardia
+827,63,1,119,fainting,Tachycardia
+828,55,2,117,heart palpitation,Tachycardia
+829,1,2,99,heartbeat is normal,heartbeat is normal
+830,60,1,39,chest pain,Bradycardia
+831,59,1,112,heart palpitation,Tachycardia
+832,73,2,137,fainting,Tachycardia
+833,20,2,79,heartbeat is normal,heartbeat is normal
+834,63,1,145,fainting,Tachycardia
+835,85,2,142,fainting,Tachycardia
+836,44,2,69,heartbeat is normal,heartbeat is normal
+837,15,2,140,rapid pulse rate,Tachycardia
+838,41,1,71,heartbeat is normal,heartbeat is normal
+839,4,1,126,fainting,Tachycardia
+840,21,2,115,fainting,Tachycardia
+841,26,1,57,fatigue,Bradycardia
+842,89,1,134,fainting,Tachycardia
+843,21,1,124,rapid pulse rate,Tachycardia
+844,56,1,129,rapid pulse rate,Tachycardia
+845,26,2,129,rapid pulse rate,Tachycardia
+846,72,2,94,heartbeat is normal,heartbeat is normal
+847,8,1,141,fainting,Tachycardia
+848,40,1,33,confusion of memory problem,Bradycardia
+849,62,1,56,chest pain,Bradycardia
+850,45,1,121,heart palpitation,Tachycardia
+851,4,2,73,heartbeat is normal,heartbeat is normal
+852,47,2,70,heartbeat is normal,heartbeat is normal
+853,20,1,56,fatigue,Bradycardia
+854,68,2,117,rapid pulse rate,Tachycardia
+855,59,2,48,chest pain,Bradycardia
+856,40,2,59,dizziness,Bradycardia
+857,39,1,109,fainting,Tachycardia
+858,32,1,149,fainting,Tachycardia
+859,88,2,50,dizziness,Bradycardia
+860,23,1,81,heartbeat is normal,heartbeat is normal
+861,42,1,121,rapid pulse rate,Tachycardia
+862,62,1,129,heart palpitation,Tachycardia
+863,56,1,68,heartbeat is normal,heartbeat is normal
+864,18,1,89,heartbeat is normal,heartbeat is normal
+865,55,1,138,fainting,Tachycardia
+866,22,2,86,heartbeat is normal,heartbeat is normal
+867,27,2,52,chest pain,Bradycardia
+868,26,2,108,rapid pulse rate,Tachycardia
+869,34,2,75,heartbeat is normal,heartbeat is normal
+870,49,2,113,heart palpitation,Tachycardia
+871,49,2,87,heartbeat is normal,heartbeat is normal
+872,37,1,120,heart palpitation,Tachycardia
+873,47,1,58,dizziness,Bradycardia
+874,23,2,35,shortness of breadth,Bradycardia
+875,40,2,57,shortness of breadth,Bradycardia
+876,76,1,111,fainting,Tachycardia
+877,2,2,149,fainting,Tachycardia
+878,1,2,139,heart palpitation,Tachycardia
+879,10,2,73,heartbeat is normal,heartbeat is normal
+880,61,2,137,fainting,Tachycardia
+881,84,1,144,fainting,Tachycardia
+882,52,2,65,heartbeat is normal,heartbeat is normal
+883,26,1,64,heartbeat is normal,heartbeat is normal
+884,20,1,34,dizziness,Bradycardia
+885,20,2,34,shortness of breadth,Bradycardia
+886,59,2,38,confusion of memory problem,Bradycardia
+887,47,2,122,rapid pulse rate,Tachycardia
+888,10,1,126,fainting,Tachycardia
+889,59,1,142,rapid pulse rate,Tachycardia
+890,71,2,133,heart palpitation,Tachycardia
+891,39,1,65,heartbeat is normal,heartbeat is normal
+892,36,1,136,rapid pulse rate,Tachycardia
+893,47,1,78,heartbeat is normal,heartbeat is normal
+894,81,1,69,heartbeat is normal,heartbeat is normal
+895,19,2,92,heartbeat is normal,heartbeat is normal
+896,75,2,65,heartbeat is normal,heartbeat is normal
+897,59,1,110,fainting,Tachycardia
+898,80,1,147,rapid pulse rate,Tachycardia
+899,33,2,138,rapid pulse rate,Tachycardia
+900,53,2,103,heart palpitation,Tachycardia
+901,83,1,39,fatigue,Bradycardia
+902,33,1,30,chest pain,Bradycardia
+903,2,1,118,heart palpitation,Tachycardia
+904,29,2,62,heartbeat is normal,heartbeat is normal
+905,12,1,148,fainting,Tachycardia
+906,87,2,99,heartbeat is normal,heartbeat is normal
+907,78,2,90,heartbeat is normal,heartbeat is normal
+908,58,2,90,heartbeat is normal,heartbeat is normal
+909,27,2,82,heartbeat is normal,heartbeat is normal
+910,12,2,72,heartbeat is normal,heartbeat is normal
+911,38,1,94,heartbeat is normal,heartbeat is normal
+912,58,2,146,rapid pulse rate,Tachycardia
+913,50,1,49,fatigue,Bradycardia
+914,54,2,42,dizziness,Bradycardia
+915,8,1,49,dizziness,Bradycardia
+916,59,1,84,heartbeat is normal,heartbeat is normal
+917,74,2,142,heart palpitation,Tachycardia
+918,28,2,91,heartbeat is normal,heartbeat is normal
+919,50,1,76,heartbeat is normal,heartbeat is normal
+920,21,2,93,heartbeat is normal,heartbeat is normal
+921,13,1,128,fainting,Tachycardia
+922,55,1,104,heart palpitation,Tachycardia
+923,48,2,62,heartbeat is normal,heartbeat is normal
+924,33,1,106,rapid pulse rate,Tachycardia
+925,36,1,61,heartbeat is normal,heartbeat is normal
+926,57,1,104,heart palpitation,Tachycardia
+927,71,2,139,fainting,Tachycardia
+928,16,2,91,heartbeat is normal,heartbeat is normal
+929,25,2,99,heartbeat is normal,heartbeat is normal
+930,54,2,58,dizziness,Bradycardia
+931,65,1,90,heartbeat is normal,heartbeat is normal
+932,4,1,96,heartbeat is normal,heartbeat is normal
+933,77,1,108,rapid pulse rate,Tachycardia
+934,44,1,129,rapid pulse rate,Tachycardia
+935,15,2,121,heart palpitation,Tachycardia
+936,45,2,129,heart palpitation,Tachycardia
+937,44,1,56,chest pain,Bradycardia
+938,72,2,70,heartbeat is normal,heartbeat is normal
+939,37,1,147,fainting,Tachycardia
+940,68,1,101,heart palpitation,Tachycardia
+941,77,2,34,confusion of memory problem,Bradycardia
+942,84,2,113,heart palpitation,Tachycardia
+943,11,2,98,heartbeat is normal,heartbeat is normal
+944,20,2,72,heartbeat is normal,heartbeat is normal
+945,47,1,41,chest pain,Bradycardia
+946,42,1,71,heartbeat is normal,heartbeat is normal
+947,20,1,115,heart palpitation,Tachycardia
+948,69,2,80,heartbeat is normal,heartbeat is normal
+949,81,1,32,shortness of breadth,Bradycardia
+950,15,1,82,heartbeat is normal,heartbeat is normal
+951,41,1,51,confusion of memory problem,Bradycardia
+952,81,2,126,rapid pulse rate,Tachycardia
+953,59,1,115,heart palpitation,Tachycardia
+954,56,2,57,shortness of breadth,Bradycardia
+955,80,2,32,fatigue,Bradycardia
+956,33,1,112,heart palpitation,Tachycardia
+957,28,2,78,heartbeat is normal,heartbeat is normal
+958,87,1,119,heart palpitation,Tachycardia
+959,7,2,91,heartbeat is normal,heartbeat is normal
+960,64,1,106,fainting,Tachycardia
+961,61,1,128,rapid pulse rate,Tachycardia
+962,28,1,129,fainting,Tachycardia
+963,58,2,82,heartbeat is normal,heartbeat is normal
+964,68,2,104,fainting,Tachycardia
+965,47,2,75,heartbeat is normal,heartbeat is normal
+966,76,2,127,fainting,Tachycardia
+967,4,1,66,heartbeat is normal,heartbeat is normal
+968,2,2,79,heartbeat is normal,heartbeat is normal
+969,51,1,70,heartbeat is normal,heartbeat is normal
+970,79,1,137,fainting,Tachycardia
+971,49,2,78,heartbeat is normal,heartbeat is normal
+972,19,2,46,fatigue,Bradycardia
+973,52,1,46,shortness of breadth,Bradycardia
+974,65,2,50,dizziness,Bradycardia
+975,66,1,136,rapid pulse rate,Tachycardia
+976,85,1,57,shortness of breadth,Bradycardia
+977,29,1,90,heartbeat is normal,heartbeat is normal
+978,47,1,59,shortness of breadth,Bradycardia
+979,30,1,132,fainting,Tachycardia
+980,16,2,63,heartbeat is normal,heartbeat is normal
+981,83,1,119,heart palpitation,Tachycardia
+982,40,1,108,heart palpitation,Tachycardia
+983,48,2,133,rapid pulse rate,Tachycardia
+984,67,2,114,heart palpitation,Tachycardia
+985,10,2,55,fatigue,Bradycardia
+986,20,2,136,fainting,Tachycardia
+987,61,2,69,heartbeat is normal,heartbeat is normal
+988,64,2,65,heartbeat is normal,heartbeat is normal
+989,50,2,81,heartbeat is normal,heartbeat is normal
+990,80,1,147,fainting,Tachycardia
+991,12,2,88,heartbeat is normal,heartbeat is normal
+992,7,1,113,heart palpitation,Tachycardia
+993,66,2,109,rapid pulse rate,Tachycardia
+994,50,1,61,heartbeat is normal,heartbeat is normal
+995,60,1,85,heartbeat is normal,heartbeat is normal
+996,53,1,41,fatigue,Bradycardia
+997,64,2,104,rapid pulse rate,Tachycardia
+998,8,2,36,shortness of breadth,Bradycardia
+999,17,2,50,shortness of breadth,Bradycardia
